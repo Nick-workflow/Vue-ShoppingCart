@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+### Vue2.0 、 Vue-resource、 Vuex、 Json-server、 Bootstrap
+
 ## Build Setup
 
 ``` bash
